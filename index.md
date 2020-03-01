@@ -19,7 +19,7 @@ Hello, this is my website. It's pretty cool, even if I do say so myself! It's ju
 
 ### Tables
 
-| DaY       | Did I Procrastinate? |
+| Day       | Did I Procrastinate? |
 | --------- | -------------------- |
 | Monday    | yes                  |
 | Tuesday   | yes                  |
